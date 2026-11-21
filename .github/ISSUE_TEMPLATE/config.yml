@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Email Danny
+    url: mailto:hello@tenrec.app
+    about: For anything private, like account or privacy questions.
+  - name: Ask on X
+    url: https://x.com/imdannydo
+    about: Quick questions and hellos.
