@@ -1,8 +1,8 @@
 # Changelog
 
-All notable changes to Tenrec. Download the latest version at [tenrec.app](https://tenrec.app).
+All notable changes to Tenrec. Download the latest version at [tenrec.app](https://tenrec.app) or from [Releases](https://github.com/imdannydo/tenrec/releases).
 
-## 1.0.0 · November 2026
+## 1.0.5 · November 2026
 
 The first public release.
 
