@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="Tenrec: work alone, together. A free Mac menu bar app." width="100%">
+  <img src="assets/cover.png?v=2" alt="Tenrec: work alone, together. A free Mac menu bar app." width="100%">
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Long days, an empty room, just you and the keyboard. Tenrec sits in your menu ba
 It's body doubling for your Mac.
 
 <p align="center">
-  <img src="assets/screens.jpg" alt="Tenrec onboarding, menu bar panel and settings" width="100%">
+  <img src="assets/screens.jpg?v=2" alt="Tenrec onboarding, menu bar panel and settings" width="100%">
 </p>
 
 ## How it works
@@ -103,6 +103,6 @@ Found a bug or have an idea? [Open an issue](../../issues). If Tenrec keeps you 
 <br>
 
 <p align="center">
-  <img src="assets/icon.png" width="64" alt="Tenrec icon"><br>
+  <img src="assets/icon.png?v=2" width="64" alt="Tenrec icon"><br>
   <sub>Made by Danny · also made <a href="https://cuewake.app/?ref=tenrec-github">Cuewake</a></sub>
 </p>
