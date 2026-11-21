@@ -1,0 +1,35 @@
+name: Bug report
+description: Something in Tenrec isn't working right
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Tell us what you saw and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open the menu bar panel
+        2. Click Invite
+        3. ...
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "15.1"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Tenrec version
+      placeholder: "1.0.0"
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or anything else
